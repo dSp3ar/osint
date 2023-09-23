@@ -27,10 +27,41 @@ metagoofil (document search by domain)
 waybackmachiene (possible to make snapshots even for youtube videos that can be then deleted)
 ```
 
-Passwords leaks:
+Image OSINT
 ```
-dehashed.com
-haveibeenpwned.com
+Google Image Search - https://images.google.com
+Yandex - https://yandex.com
+TinEye - https://tineye.com
+```
+
+Email OSINT
+```
+Hunter.io - https://hunter.io/
+Phonebook.cz - https://phonebook.cz/
+VoilaNorbert - https://www.voilanorbert.com/
+Email Hippo - https://tools.verifyemailaddress.io/
+Email Checker - https://email-checker.net/validate
+Clearbit Connect - https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo?hl=en
+https://github.com/megadose/holehe
+```
+
+Password OSINT
+```
+Dehashed - https://dehashed.com/
+WeLeakInfo - https://weleakinfo.to/v2/
+LeakCheck - https://leakcheck.io/
+SnusBase - https://snusbase.com/
+Scylla.sh - https://scylla.sh/
+HaveIBeenPwned - https://haveibeenpwned.com/
+```
+
+Username OSINT
+```
+NameChk - https://namechk.com/
+WhatsMyName - https://whatsmyname.app/
+NameCheckup - https://namecheckup.com/
+https://github.com/sherlock-project/sherlock
+https://github.com/soxoj/maigret
 ```
 
 Frameworks:
