@@ -98,6 +98,52 @@ ImgInn - https://imginn.com/
 Snapchat Maps - https://map.snapchat.com
 ```
 
+Website OSINT
+```
+BuiltWith - https://builtwith.com/
+Domain Dossier - https://centralops.net/co/
+DNSlytics - https://dnslytics.com/reverse-ip
+SpyOnWeb - https://spyonweb.com/
+Virus Total - https://www.virustotal.com/
+Visual Ping - https://visualping.io/
+Back Link Watch - http://backlinkwatch.com/index.php
+View DNS - https://viewdns.info/
+Pentest-Tools Subdomain Finder - https://pentest-tools.com/information-gathering/find-subdomains-of-domain#
+Spyse - https://spyse.com/
+crt.sh - https://crt.sh/
+Shodan - https://shodan.io
+Wayback Machine - https://web.archive.org/
+```
+
+Business OSINT
+```
+Open Corporates - https://opencorporates.com/
+AI HIT - https://www.aihitdata.com/
+```
+
+Wireless OSINT
+```
+WiGLE - https://wigle.net/
+```
+
+Building an OSINT Lab
+```
+TraceLabs OSINT VM - https://www.tracelabs.org/initiatives/osint-vm
+TraceLabs OSINT VM Installation Guide - https://download.tracelabs.org/Trace-Labs-OSINT-VM-Installation-Guide-v2.pdf
+```
+
+Working with OSINT Tools
+```
+breach-parse - https://github.com/hmaverickadams/breach-parse
+Subfinder - https://github.com/projectdiscovery/subfinder
+Assetfinder - https://github.com/tomnomnom/assetfinder
+httprobe - https://github.com/tomnomnom/httprobe
+Amass - https://github.com/OWASP/Amass
+GoWitness - https://github.com/sensepost/gowitness/wiki/Installation
+Recon-ng
+Maltego
+```
+
 Frameworks:
 ```
 https://osintframework.com/ (site)
