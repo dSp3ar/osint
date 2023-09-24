@@ -25,6 +25,19 @@ https://webmii.com/ (scrap internet by name)
 Unmask Google users (share documents)
 metagoofil (document search by domain)
 waybackmachiene (possible to make snapshots even for youtube videos that can be then deleted)
+WhitePages - https://www.whitepages.com/
+TruePeopleSearch - https://www.truepeoplesearch.com/
+FastPeopleSearch - https://www.fastpeoplesearch.com/
+FastBackgroundCheck - https://www.fastbackgroundcheck.com/
+PeekYou - https://peekyou.com/
+411 - https://www.411.com/
+Spokeo - https://www.spokeo.com/
+That's Them - https://thatsthem.com/
+Voter Records - https://www.voterrecords.com
+TrueCaller - https://www.truecaller.com/
+CallerID Test - https://calleridtest.com/
+Infobel - https://infobel.com/
+
 ```
 
 Image OSINT
@@ -62,6 +75,26 @@ WhatsMyName - https://whatsmyname.app/
 NameCheckup - https://namecheckup.com/
 https://github.com/sherlock-project/sherlock
 https://github.com/soxoj/maigret
+```
+
+### Social Media OSINT
+Twitter Advanced Search - https://twitter.com/search-advanced
+https://i.pinimg.com/736x/7b/36/60/7b36608bb945eeb60bb6980f68b70bdd--materialdesign-illustration-design.jpg
+Social Bearing - https://socialbearing.com/
+Twitonomy - https://www.twitonomy.com/
+Sleeping Time - http://sleepingtime.org/
+Mentionmapp - https://mentionmapp.com/
+Tweetbeaver - https://tweetbeaver.com/
+Spoonbill.io - http://spoonbill.io/
+Tinfoleak - https://tinfoleak.com/
+TweetDeck - https://tweetdeck.com/
+Sowdust Github - https://sowdust.github.io/fb-search/
+IntelligenceX Facebook Search - https://intelx.io/tools?tab=facebook
+Wopita - https://wopita.com/
+Code of a Ninja - https://codeofaninja.com/tools/find-instagram-user-id/
+InstaDP - https://www.instadp.com/
+ImgInn - https://imginn.com/
+Snapchat Maps - https://map.snapchat.com
 ```
 
 Frameworks:
