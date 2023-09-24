@@ -77,7 +77,8 @@ https://github.com/sherlock-project/sherlock
 https://github.com/soxoj/maigret
 ```
 
-### Social Media OSINT
+Social Media OSINT
+```
 Twitter Advanced Search - https://twitter.com/search-advanced
 https://i.pinimg.com/736x/7b/36/60/7b36608bb945eeb60bb6980f68b70bdd--materialdesign-illustration-design.jpg
 Social Bearing - https://socialbearing.com/
