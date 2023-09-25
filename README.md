@@ -60,12 +60,20 @@ https://github.com/megadose/holehe
 
 Password OSINT
 ```
+BreachDirectory - https://breachdirectory.org
+BreachParse - https://github.com/hmaverickadams/breach-parse
 Dehashed - https://dehashed.com/
 WeLeakInfo - https://weleakinfo.to/v2/
 LeakCheck - https://leakcheck.io/
 SnusBase - https://snusbase.com/
 Scylla.sh - https://scylla.sh/
 HaveIBeenPwned - https://haveibeenpwned.com/
+```
+
+HashCracking
+```
+https://hashes.com/en/decrypt/hash
+https://crackstation.net/
 ```
 
 Username OSINT
