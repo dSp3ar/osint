@@ -85,6 +85,11 @@ https://github.com/sherlock-project/sherlock
 https://github.com/soxoj/maigret
 ```
 
+Phone Number code verification
+```
+https://anonymsms.com/
+```
+
 Social Media OSINT
 ```
 Twitter Advanced Search - https://twitter.com/search-advanced
