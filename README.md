@@ -178,6 +178,11 @@ Facebook "find your account":
 https://www.facebook.com/login/identify/
 ```
 
+Check whether the email exists (you can give a file of emails):
+```
+https://github.com/dievus/Oh365UserFinder
+```
+
 Any data
 ```
 https://pastebin.com
